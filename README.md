@@ -32,17 +32,17 @@ This repository is for the frontend. You may find the backend repository [HERE](
 
 # Reflections
 
-Motivation of building Pomogrids
+<strong>Motivation of building Pomogrids</strong>
 
 1. I've been a fan of the pomodoro time management technique as well as Github's calendar heat map, hence excited to merge both into a product that I will use/have been using for the past weeks.
 2. A great project that may seem simple (one page), yet technically and logically challenging! Pushed me to think about how to write clean code - Example, using reusable components for modals, different forms, menu items, task items, buttons etc. Or, what's the best way to execute the timer logic without repetition (in what scenarios does a Start/Stop/Pause button need to appear? How do I best execute the cycle logic and make it dynamic?).
 3. Exposed me to use new technologies that I've been interested in - Typescript, Next.js, Firebase authentication, D3.js. I'm currently rebuilding the production version with Next.js API for server (for exposure and learning), Prisma (to learn ORMs), Planet Scale (MySQL) (for easier deployment of db), Stripe for checkout.
 
-General approach
+<strong>General approach</strong>
 
 1. Clean code
 2. Minimize API calls and utilize local states to make the Pomogrids faster and nicer to use. With each user input (create new task etc), I maintained 2 sets of data (db and local states) so I did not have to run API calls just to update the site. This makes changes instantaneous.
 
-Key learning
+<strong>Key learning</strong>
 
 1. Reading documentation and learning on your own (outside a bootcamp setting) is challenging and a skill all in all! It was honestly overwhelming, yet incredibly satisfying, to learn new technologies and concepts on your own. You may feel overwhelmed with the numorous tutorials but learn to embrace the uncertainty and enjoy the process. Definitely a rewarding process of learning Typescript, Next.js, Firebase auth and D3.js.
