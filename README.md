@@ -2,7 +2,7 @@
 
 Pomogrids is a productivity tool that includes a pomodoro timer and a heat map which tracks the number of hours worked daily. It hopes to help users improve focus and accountability for their day to day learning! Its inspired by the Pomodoro Technique (a time management method) and Github's contribution heat map. Check it out [HERE](https://www.pomogrids.com)!
 
-This is a fullstack project developed in 10 days (27th Feb - 9th Mar'23), as part of my capstone project in General Assembly's Software Engineering course.
+This is a fullstack project developed in 10 days (27th Feb - 9th Mar'23), as part of my capstone project in General Assembly's Software Engineering course. Currently improving the product for production, repo [HERE](https://github.com/awhuiyun/pomogrids-prod).
 
 This repository is for the frontend. You may find the backend repository [HERE](https://github.com/awhuiyun/pomogrids-server).
 
